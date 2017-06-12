@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Pulsaku</string>
+
+    <string-array name="provider">
+        <item>Pilih Provider</item>
+        <item>TELKOMSEL</item>
+        <item>INDOSAT</item>
+        <item>XL</item>
+        <item>TRI</item>
+        <item>ESIA</item>
+        <item>SMARTFREN</item>
+    </string-array>
+
+    <string-array name="nominal">
+        <item>Nominal Pengisian Pulsa</item>
+        <item>5000</item>
+        <item>10000</item>
+        <item>20000</item>
+        <item>25000</item>
+        <item>50000</item>
+        <item>100000</item>
+    </string-array>
+
+    <string-array name="nominalls">
+        <item>Nominal Pengisian PLN</item>
+        <item>20000</item>
+        <item>50000</item>
+        <item>100000</item>
+        <item>200000</item>
+    </string-array>
+
+    <string-array name="nominaldt">
+        <item>Nominal Pengisian Paket Data</item>
+        <item>1 GB</item>
+        <item>2 GB</item>
+        <item>3 GB</item>
+        <item>3,5 GB</item>
+        <item>4,5 GB</item>
+        <item>5 GB</item>
+        <item>7,5 GB</item>
+        <item>9,5 GB</item>
+    </string-array>
+
+
+    <string-array name="harga">
+        <item>Input Harga</item>
+        <item>6000</item>
+        <item>11000</item>
+        <item>21000</item>
+        <item>26000</item>
+        <item>51000</item>
+        <item>101000</item>
+    </string-array>
+</resources>
